@@ -1,18 +1,17 @@
 {
   "files": {
-    "main.css": "/static/css/main.00e97e8d.css",
-    "main.js": "/static/js/main.91aae1fa.js",
+    "main.css": "/static/css/main.8d03b8ce.css",
+    "main.js": "/static/js/main.65997dc0.js",
     "static/css/487.509dff71.chunk.css": "/static/css/487.509dff71.chunk.css",
     "static/js/487.ea84ee9e.chunk.js": "/static/js/487.ea84ee9e.chunk.js",
-    "static/css/990.89d45dd8.chunk.css": "/static/css/990.89d45dd8.chunk.css",
+    "static/css/990.4383b2bd.chunk.css": "/static/css/990.4383b2bd.chunk.css",
     "static/js/990.567a0b93.chunk.js": "/static/js/990.567a0b93.chunk.js",
     "static/media/wellsfargologo.png": "/static/media/wellsfargologo.025c72f3bd2687f6dcc5.png",
     "static/media/metalogo.png": "/static/media/metalogo.3228137c5401ab10ef38.png",
     "static/media/universitylogo.png": "/static/media/universitylogo.25849bd9b74205659220.png",
     "static/media/bank of america logo.png": "/static/media/bank of america logo.3c4f1adfa37e0143c275.png",
     "static/media/Montserrat-Regular.ttf": "/static/media/Montserrat-Regular.3cd786652b8a2e9d41f2.ttf",
-    "static/media/sales_dashboard.png": "/static/media/sales_dashboard.df6d4b370ef91d83cb18.png",
-    "static/media/real_estate_dashboard.png": "/static/media/real_estate_dashboard.2c42c218fe4952631821.png",
+    "static/media/financial_dashboard.png": "/static/media/financial_dashboard.f5e4bcd71525871b41f4.png",
     "static/media/Agustina.woff": "/static/media/Agustina.eb0c59dda4cc308cba96.woff",
     "static/media/manOnTable.svg": "/static/media/manOnTable.8f117eb207e57ed8f89d67d595aceb45.svg",
     "static/media/contactMailDark.svg": "/static/media/contactMailDark.1db650d351729a0f17b4e3104e6a7b7a.svg",
@@ -22,15 +21,15 @@
     "static/media/pwaLogo.webp": "/static/media/pwaLogo.8bf2293da0ca66249e37.webp",
     "index.html": "/index.html",
     "static/media/talksCardBack.svg": "/static/media/talksCardBack.73ed1545d58273ba64b0.svg",
-    "main.00e97e8d.css.map": "/static/css/main.00e97e8d.css.map",
-    "main.91aae1fa.js.map": "/static/js/main.91aae1fa.js.map",
+    "main.8d03b8ce.css.map": "/static/css/main.8d03b8ce.css.map",
+    "main.65997dc0.js.map": "/static/js/main.65997dc0.js.map",
     "487.509dff71.chunk.css.map": "/static/css/487.509dff71.chunk.css.map",
     "487.ea84ee9e.chunk.js.map": "/static/js/487.ea84ee9e.chunk.js.map",
-    "990.89d45dd8.chunk.css.map": "/static/css/990.89d45dd8.chunk.css.map",
+    "990.4383b2bd.chunk.css.map": "/static/css/990.4383b2bd.chunk.css.map",
     "990.567a0b93.chunk.js.map": "/static/js/990.567a0b93.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.00e97e8d.css",
-    "static/js/main.91aae1fa.js"
+    "static/css/main.8d03b8ce.css",
+    "static/js/main.65997dc0.js"
   ]
 }
